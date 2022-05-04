@@ -41,6 +41,6 @@ criador de site landpg e desenvolvedor de
 cursando  analise em desevolvimento de sistema
 
 Meu foco e front end
- there
+
 
 

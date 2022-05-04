@@ -32,15 +32,7 @@
 <img aling="centeer"alt="wanderson-html"heignt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </div>
 
-<!-->
 
-EU sou wanderson de farias
-
-criador de site landpg e desenvolvedor de 
-
-cursando  analise em desevolvimento de sistema
-
-Meu foco e front end
 
 
 

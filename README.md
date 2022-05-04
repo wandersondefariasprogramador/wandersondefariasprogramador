@@ -10,8 +10,7 @@
  Estou cursando  analise e desenvolvimento de sistemas
  
  Meu foco  atualmente esta em Front End
- 
-<di>
+ <di>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandersondefariasprogramador&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersondefariasprogramador&layout=compact&theme=tokyonight"/> 
  <di/> 

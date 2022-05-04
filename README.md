@@ -8,9 +8,12 @@
  
  Meu foco  atualmente esta em Front End
  
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+ 
 <di>
   
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandersondefariasprogramador&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersondefariasprogramador&layout=compact&theme=tokyonight"/> 

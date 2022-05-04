@@ -17,7 +17,7 @@ Meu foco e front end
   
  </div>
 
-  
+ <div> 
   ### lest's get connected:
   
  [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
@@ -28,6 +28,7 @@ Meu foco e front end
  [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderson-farias-ba9a90215/)
  [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
  
+  <div/>
  
  🧑‍💻 Technologies e Tools I use:
  

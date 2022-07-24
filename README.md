@@ -1,12 +1,12 @@
  ### 💻🏆
  
    <img src="https://madefy.com.br/wp-content/themes/madefy/img/servicos/17.png" min-width="400px" max-width="400px" 
-  width="400px" align="right" alt="Computador iuriCode">
+    width="400px" align="right" alt="Computador iuriCode">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22E94EFB&lines=Welcome+on+my+Github)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22E94EFB&lines=Welcome+on+my+Github)](https://git.io/typing-svg)
 
-My name is Wanderson you would
-Website builder and landing page developer
+ My name is Wanderson you would
+ Website builder and landing page developer
 I am studying systems analysis and development My focus is currently on the front end
 
  <di>

@@ -1,7 +1,8 @@
  ### 💻🏆
 
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" 
+  <img src="https://madefy.com.br/wp-content/themes/madefy/img/servicos/17.png" min-width="400px" max-width="400px" 
   width="400px" align="right" alt="Computador iuriCode">
+
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&duration=5368&color=7637F3&background=FFB2E800&center=falso&vCenter=falso&lines=Welcome+on+my+Github)](https://git.io/typing-svg)
 

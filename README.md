@@ -3,7 +3,7 @@
   width="400px" align="right" alt="Computador iuriCode">
 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&duration=5368&color=7637F3&background=FFB2E800&center=falso&vCenter=falso&lines=Welcome+on+my+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22E94EFB&lines=Welcome+on+my+Github)](https://git.io/typing-svg)
 
  Eu me chamo wanderson de farias 
  

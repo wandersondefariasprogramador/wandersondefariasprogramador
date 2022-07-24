@@ -5,13 +5,9 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22E94EFB&lines=Welcome+on+my+Github)](https://git.io/typing-svg)
 
-My name is wanderson  de farias
-
-Website Bulder and Form Developer 
-                                                        
-I am studying systems analysis and development.
-
-My focus is currently on Front End
+My name is wanderson would you
+website builder and landing page developer
+I am studying system analysis and development My focus is currently on the front end
 
  <di>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandersondefariasprogramador&show_icons=true&theme=tokyonight"/>

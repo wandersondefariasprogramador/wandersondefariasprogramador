@@ -5,13 +5,14 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22E94EFB&lines=Welcome+on+my+Github)](https://git.io/typing-svg)
 
- Eu me chamo wanderson de farias 
- 
- Criador de sites e Desenvolvedor de formúlarios
- 
- Estou cursando  analise e desenvolvimento de sistemas
- 
- Meu foco  atualmente esta em Front End
+My name is wanderson of would
+
+Website Builder and Form Developer
+
+I am studying systems analysis and development.
+
+My focus is currently on Front End
+
  <di>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandersondefariasprogramador&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersondefariasprogramador&layout=compact&theme=tokyonight"/> 
